@@ -72,6 +72,10 @@ table {
   font-size: 14px;
 }
 
+.topsel a {
+  color: #F06D3C !important;
+}
+
 #hnmain {
   width: 800px;
   background: transparent;
